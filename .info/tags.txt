@@ -1,0 +1,3 @@
+zypper
+poshy-wrap
+pwshrc
